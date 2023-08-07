@@ -1,5 +1,4 @@
-![image](https://github.com/MohamedHamedEL-SayedAhmed/MohamedHamedEL-SayedAhmed/assets/139533263/73abb305-95ce-49cd-9231-5f912bb70e74)
-
+Photo by Tima Miroshnichenko: https://www.pexels.com/photo/a-man-in-white-long-sleeves-sitting-at-the-table-7567588/
 
 
 - 👋 Hi, I’m Mohamed Hamed EL-Sayed Ahmed
