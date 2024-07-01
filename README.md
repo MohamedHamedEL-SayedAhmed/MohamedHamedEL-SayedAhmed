@@ -1,5 +1,3 @@
-![image](https://github.com/MohamedHamedEL-SayedAhmed/MohamedHamedEL-SayedAhmed/assets/139533263/4ba2f9fa-80fb-4aa0-ab6d-ece29e05e02f)
-
 - 👋 Hi, I’m Mohamed Hamed EL-Sayed Ahmed
 - 👀 I’m Data Analytics Professionals.
 - 🌱 I’m currently a Data Analytics And learning Google And IBM.
@@ -24,7 +22,3 @@ Business intelligence tools:-
 - Jupyter Notebooke.
 - Tableau.
 
-
-![image](https://github.com/MohamedHamedEL-SayedAhmed/MohamedHamedEL-SayedAhmed/assets/139533263/4ee9d755-8890-43d3-a223-b77c0c3b2d50)
-
-![image](https://github.com/MohamedHamedEL-SayedAhmed/MohamedHamedEL-SayedAhmed/assets/139533263/0b7293c7-154f-426a-9236-6f27f80598ee)
